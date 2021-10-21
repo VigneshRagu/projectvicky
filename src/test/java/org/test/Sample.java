@@ -14,8 +14,12 @@ public class Sample {
 	}
 	@Test
 	private void test() {
+
+		System.out.println("test 1");
+		System.out.println("test 2");
 		System.out.println("hi iam vicky");
 		System.out.println("hi vk");
+
 		
 
 	}
